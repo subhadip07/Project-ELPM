@@ -1,0 +1,12 @@
+{
+    "users": {
+        "hi12": {
+            "password": "123",
+            "role": "normal"
+        },
+        "hi1": {
+            "password": "123",
+            "role": "faculty"
+        }
+    }
+}

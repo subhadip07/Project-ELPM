@@ -1,0 +1,122 @@
+streamlit_option_menu
+pandas
+numpy
+streamlit
+scikit-learn
+seaborn
+plotly
+python-dotenv
+statsmodels
+scipy
+imbalanced-learn
+requests
+vaderSentiment
+ipykernel
+mlxtend
+pyarrow
+#streamlit-login-auth-ui
+
+# altair
+# argon2-cffi
+# argon2-cffi-bindings
+# asttokens
+# attrs
+# backcall
+# bleach
+# blinker
+# cachetools
+# cffi
+# charset-normalizer
+# click
+# colorama
+# commonmark
+# cryptography
+# debugpy
+# decorator
+# distlib
+# docutils
+# entrypoints
+# executing
+# filelock
+# gitdb
+# GitPython
+# idna
+# importlib-metadata
+# ipykernel
+# ipython
+# ipywidgets
+# jedi
+# Jinja2
+# jsonschema
+# jupyter-client
+# jupyter-core
+# jupyterlab-widgets
+# keyring
+# MarkupSafe
+# matplotlib-inline
+# nest-asyncio
+
+# packaging
+# parso
+# pickleshare
+# Pillow
+# pkginfo
+# platformdirs
+# prompt-toolkit
+# protobuf
+# psutil
+# pure-eval
+# 
+# pycparser
+# pydeck
+# Pygments
+# Pympler
+# pyparsing
+# pyrsistent
+# python-dateutil
+# pytz
+# pytz-deprecation-shim
+# pyzmq
+# readme-renderer
+# requests
+# requests-toolbelt
+# rfc3986
+# rich
+# semver
+# six
+# smmap
+# stack-data
+
+# streamlit-cookies-manager
+# streamlit-lottie
+# streamlit-option-menu
+# streamlit-login-auth-ui
+# toml
+# toolz
+# tornado
+# traitlets
+# trycourier
+# twine
+# typing_extensions
+# tzdata
+# tzlocal
+# urllib3
+# validators
+# virtualenv
+# watchdog
+# wcwidth
+# webencodings
+# widgetsnbextension
+# wincertstore
+# zipp
+
+
+# google-auth-oauthlib 
+# google-auth
+# auth
+# transformers 
+# torch
+# python-docx 
+# chardet
+# torchvision 
+# torchaudio  
